@@ -14,6 +14,7 @@ public class TestClient {
             "letmein",
             "attack1",
             "attack2"
+            "attack3"
         };
 
         try {
